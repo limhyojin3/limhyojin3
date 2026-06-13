@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## 포트폴리오 소개
-[팀프로젝트1.메리뷰(웨딩특화 커뮤니티 사이트)](https://github.com/limhyojin3/SpringProjectTeam3)
+1. [팀프로젝트 1.메리뷰(웨딩 특화 예약,리뷰,커뮤니티 웹애플리케이션)](https://github.com/limhyojin3/SpringProjectTeam3)
+2. [개인프로젝트 1.혈당메이트(혈당관리 SNS 웹애플리케이션](https://github.com/limhyojin3/deploy-react-sns-project-hj3)
 
 <!--
 **limhyojin3/limhyojin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
