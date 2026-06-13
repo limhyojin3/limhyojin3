@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 포트폴리오 소개
+[팀프로젝트1.메리뷰(웨딩특화 커뮤니티 사이트)](https://github.com/limhyojin3/SpringProjectTeam3)
+
 <!--
 **limhyojin3/limhyojin3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
