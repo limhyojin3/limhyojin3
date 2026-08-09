@@ -27,7 +27,7 @@
 * 🙋‍♂️ **Role** : 팀원 (UI/UX & 모바일 앱 개발) — 메인페이지 및 지도·업체 파트, Geohash 5자리 정밀 스캔 기반 매장 탐색, Google Maps API & 네이버 길찾기 연동, Google AdMob 보상형 광고 구현
 * 🛠️ **Tech Stack** : 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black) 
-* 🔗 **Repository** : [👉 GitHub Repository 방문하기](https://github.com/limhyojin3/YamYamRoad)
+* 🔗 **Repository** : [👉 GitHub Repository 방문하기](https://github.com/Seokjae-Jang-git/YamYamRoad)
 
 <br>
 
